@@ -1,3 +1,8 @@
+## Requerimientos
+
+- node
+- npm
+
 ## Instrucciones
 
 Para el despliegue del proyecto se deben seguir las sigueintes instrucciones.
